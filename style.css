@@ -1,0 +1,20 @@
+h1 {
+  color: blue;
+}
+h2 {
+  color: green;
+}
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  color: #3e363f;
+  padding-top: 70px;
+}
+nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #fff;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
